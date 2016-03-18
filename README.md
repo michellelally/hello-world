@@ -1,2 +1,6 @@
 # hello-world
-Startup repository, following tutorial.
+
+Hi Humans!
+
+Michelle here, learning about Git for the first time.
+
